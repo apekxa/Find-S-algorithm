@@ -1,5 +1,5 @@
 # find-S-algorithm
-Implementation of Find-S Algorithm, in Python.
+IMPLEMENT AND DEMONSTRATETHE FIND-S ALGORITHM FOR FINDING THE MOST SPECIFIC HYPOTHESIS BASED ON A GIVEN SET OF DATASET. READ THE  DATA FROM A .CSV FILE.
 
 # Notes
 The code will run in Jupyter Lab and is inside the find-s.ipynb file.
